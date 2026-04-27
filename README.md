@@ -2,6 +2,10 @@
 
 An AI-powered image caption generator that uses LLaMA vision-language model via Ollama to generate descriptive captions for uploaded images. Perfect for accessibility, content management, and AI training.
 
+## Screenshot
+
+![ImageCaptionGen](ImageCaptionGen.png)
+
 ## Features
 
 - **Vision-Language Model**: Uses LLaVA for accurate image understanding
